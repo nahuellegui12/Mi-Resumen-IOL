@@ -1,0 +1,14 @@
+# Ignorar dependencias
+node_modules/
+
+# Ignorar logs y archivos de construcción
+*.log
+dist/
+build/
+
+# Ignorar archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar configuración local de VS Code
+.vscode/

@@ -1,0 +1,32 @@
+.contenedor-saldos {
+    margin-top: 20px;
+    gap: 20px;
+}
+
+.contenedor-saldo {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    flex-direction: row;
+    gap: 10px;
+    width: fit-content;
+    height: fit-content;
+    border: 1px solid #b4aeae;
+    border-radius: 15px;
+    padding: 5px;
+    margin-bottom: 10px;
+    width: 100px;
+}
+
+.valor-saldo {
+    color: white;
+    margin: 0px;
+    padding-left: 10px;
+    border-left: 1px solid #b4aeae;
+}
+
+.bandera-saldo {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}

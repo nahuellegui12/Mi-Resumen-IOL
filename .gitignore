@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+yarn.lock
+package-lock.json
+npm-debug.log*
+*.env
+
+# Build directories
+dist/
+build/
+
+# Logs
+logs/
+*.log
+yarn-error.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE-specific
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Miscellaneous
+*.bak
+*.tmp
